@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "9752357008",
+    "project_id": "rat1-fc063",
+    "storage_bucket": "rat1-fc063.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9752357008:android:9cdb8ae81fd4497f909015",
+        "android_client_info": {
+          "package_name": "com.example.rentatrainer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9752357008-1j7ufsudiq21mamq6dkro7qop1srp456.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgpYFDRcTln08KuS3jeat4QyLrok1xvlU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "9752357008-1j7ufsudiq21mamq6dkro7qop1srp456.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
